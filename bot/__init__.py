@@ -102,7 +102,7 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
         "this message was deleted\n\n"
         "This is an Open Source Project available on "
         "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Thank you for using me up! ❣️"
     )
 )
 # IDEKWBYRW
