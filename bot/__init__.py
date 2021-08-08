@@ -65,15 +65,18 @@ BROADCAST_COMMAND = get_config("BROADCAST_COMMAND", "broadcast")
 # default message in-case of None types
 DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
-    "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/NoPMsBot\n\n\n"
-    "If you are the owner of this bot, "
-    "and are seeing this message 🤦‍♂️, "
-    "means that you have not set up "
-    "the ENVironment variables properly "
-    "for the bot to function.\n\n\n"
-    "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+    "Thank you for contacting Hacker's Guruji Community 🥰\n\n"
+    "You can contact @HackersGuruji using this bot!\n\n\n"
+    "Join our official private channel for learning cool stuff"
+    "https://t.me/joinchat/RVhjw5mJsTg5ZjBl\n\n"
+    "If you're going to message me for the first time, "
+    "please read this:\n\n "
+    "- English or Hindi only\n "
+    "- State the reason you are writing me in your first message\n "
+    "- Not interested in small talks\n "
+    "- please don't bump your messages. I will answer when I have time\n\n\n "
+        
+    "Thank you"    
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
