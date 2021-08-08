@@ -88,7 +88,7 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "i am online <b>master</b>\n\n"
-        "This is a conversation Bot for contacting admins of "
+        "This is a conversation Bot for contacting admins of\n "
         "https://t.me/joinchat/RVhjw5mJsTg5ZjBl\n\n\n"
         "Thank you for using me up! ❣️"
     )
@@ -100,7 +100,7 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
     "DELETED_MESSAGES_NOTIFICATION_TEXT",
     (
         "this message was deleted\n\n"
-        "This is a conversation Bot for contacting admins of "
+        "This is a conversation Bot for contacting admins of\n "
         "https://t.me/joinchat/RVhjw5mJsTg5ZjBl\n\n\n"
         "Thank you for using me up! ❣️"
     )
