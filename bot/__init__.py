@@ -67,7 +67,7 @@ DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
     "Thank you for contacting Hacker's Guruji Community 🥰\n\n"
     "You can contact @HackersGuruji using this bot!\n\n\n"
-    "Join our official private channel for learning cool stuff"
+    "Join our official private channel for learning cool stuff.\n"
     "https://t.me/joinchat/RVhjw5mJsTg5ZjBl\n\n"
     "If you're going to message me for the first time, "
     "please read this:\n\n "
@@ -76,7 +76,7 @@ DEFAULT_START_TEXT = (
     "- Not interested in small talks\n "
     "- please don't bump your messages. I will answer when I have time\n\n\n "
         
-    "Thank you"    
+    "Thank you! "    
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
